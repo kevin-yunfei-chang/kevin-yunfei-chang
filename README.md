@@ -4,10 +4,10 @@ I hold the master degree of Finance from Renming University of China and bachelo
 
 My research interests include:
 - Economics of science and innovation
+- Science: The production function and Allocation Rule faced by scientists.
 - Innovation: The production function and Market Structure faced by firms
-- Science: The production function and Allocation Rule faced by scientists
-- Dynamic Equilibrium between science(open science) and innovation(commercial science) departments.
-- Potential drivers of knowledge diffusion
+- Dynamic Equilibrium between science(open science) and innovation(commercial science) departments, and its further productivity influence.
+- Potential drivers of knowledge diffusion, especially for its slowdown trend and structural differentiation.
 - Applied microeconomics
 
 ## Research Toolkit
