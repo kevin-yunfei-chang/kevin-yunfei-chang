@@ -1,28 +1,28 @@
 # Kevin (Yunfei) Chang
 
-I hold the master degree of Finance from Renming University of China and bachelor degree of Economics from Nankai University. My research interests focus on the economics of science and innovation.
+I hold a master's degree in Finance from Renmin University of China and a bachelor's degree in Economics from Nankai University. My research interests lie primarily in the economics of science, innovation, and technological change.
 
-My research interests include:
+## Research Interests
+
 - Economics of science and innovation
-- Science: The production function and Allocation Rule faced by scientists.
-- Innovation: The production function and Market Structure faced by firms
-- Dynamic Equilibrium between science(open science) and innovation(commercial science) departments, and its aggregate influence.
-- Potential drivers of knowledge diffusion, especially for its slowdown trend and structural differentiation.
+- Knowledge production and diffusion
+- Firm innovation, market structure, and technological change
+- Industrial organization and firm dynamics
 - Applied microeconomics
 
 ## Research Toolkit
 
 **Programming:** Python, R, Stata, SQL  
 **Data:** Large-scale administrative, patent, publication, firm, and policy data  
-**Methods:** Applied econometrics, causal inference, text analysis, and data linkage
+**Methods:** Applied econometrics, causal inference, text analysis, entity resolution, and data linkage
 
 ## Selected Research & Coding Projects
 
-Repositories and research code will be added here.
+Research code, replication exercises, and data-engineering projects will be added here.
 
 ## Current Focus
 
-I am currently working on empirical and quantitative projects related to science, innovation, firms, and technological change.
+I am currently working on empirical and quantitative projects related to science, innovation, knowledge diffusion, and firm dynamics.
 
 ## Contact
 
