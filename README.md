@@ -18,7 +18,7 @@ I hold a master's degree in Finance from Renmin University of China and a bachel
 
 ## Selected Research & Coding Projects
 
-Research code, replication exercises, and data-engineering projects will be added here.
+Selected research code, replication exercises, and data-engineering projects are documented in the repositories below.
 
 ## Current Focus
 
